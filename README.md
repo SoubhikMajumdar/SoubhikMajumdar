@@ -16,7 +16,7 @@ I'm passionate about computer vision and deep learning, with a focus on autonomo
 
 ## 🌟 Featured Projects
 
-- **[BEVFusion for 3D Object Detection](https://github.com/SoubhikMajumdar/3D-LiDAR-Based-Birds-Eye-View-Object-Detection-via-BEVFusion)** - Multi-modal LiDAR-camera fusion on nuScenes
+- **[BEVFusion for 3D Object Detection](https://github.com/SoubhikMajumdar/3D-LiDAR-Based-Birds-Eye-View-Object-Detection-via-BEVFusion)** - LiDAR based 3d object detection on nuScenes
 - **[RLRIS](https://github.com/SoubhikMajumdar/RLRIS)** - Deep Q-Network for 6G wireless systems
 - **[3D Object Detection](https://github.com/SoubhikMajumdar/3D-object-detection)** - PointPillars, SECOND, CenterPoint implementations
 - **[Medical Image Analysis](https://github.com/SoubhikMajumdar/ISIC-2018-Skin-Lesion-Classification)** - Skin lesion classification for melanoma detection
