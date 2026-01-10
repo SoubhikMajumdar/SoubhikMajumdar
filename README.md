@@ -11,7 +11,7 @@ I'm passionate about computer vision and deep learning, with a focus on autonomo
 ## 🛠️ Tech Stack
 
 **Languages:** Python | C++ | MATLAB  
-**Frameworks:** PyTorch | Scikit-learn | Keras | TensorFlow | OpenCV | ROS  
+**Frameworks:** PyTorch | Scikit-learn | TensorFlow | OpenCV | YOLO | MMDetection3D | ROS  
 **Focus Areas:** Computer Vision | 3D Perception | Deep Learning 
 
 ## 🌟 Featured Projects
