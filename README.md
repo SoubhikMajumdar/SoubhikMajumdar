@@ -3,7 +3,7 @@
 I'm passionate about computer vision and deep learning, with a focus on Autonomous Driving Systems and 3D perception.
 
 ##  What I'm Working On
-
+- **Reinforcement Learning** Deep Q-Network for 6G wireless systems
 - **3D Object Detection** using LiDAR and camera fusion
 - **3D LiDAR Bird's-Eye-View (BEV) Perception** for autonomous driving
 - **SLAM & Visual Odometry** for robotics applications
