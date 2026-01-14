@@ -1,6 +1,6 @@
 # Hi there, I'm Soubhik 👋
 
-I'm passionate about computer vision and deep learning, with a focus on autonomous driving systems and 3D perception.
+I'm passionate about computer vision and deep learning, with a focus on Autonomous Driving Systems and 3D perception.
 
 ##  What I'm Working On
 
