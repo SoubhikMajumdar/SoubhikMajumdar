@@ -20,6 +20,7 @@ I'm passionate about computer vision and deep learning, with a focus on autonomo
 - **[RLRIS](https://github.com/SoubhikMajumdar/RLRIS)** - Deep Q-Network for 6G wireless systems
 - **[3D Object Detection](https://github.com/SoubhikMajumdar/3D-object-detection)** - PointPillars, SECOND, CenterPoint implementations
 - **[Medical Image Analysis](https://github.com/SoubhikMajumdar/ISIC-2018-Skin-Lesion-Classification)** - Skin lesion classification for melanoma detection
+- **[SfM-MVS 3D Reconstruction](https://github.com/SoubhikMajumdar/3D-Reconstruction-Mapping)** - Structure from Motion and Multi-View Stereo 3D reconstruction (COLMAP South Building)
 
 ## 📫 Connect
 
