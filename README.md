@@ -5,8 +5,9 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 ##  What I'm Working On
 
 - **3D Object Detection** using LiDAR and camera fusion
-- **Bird's-Eye-View (BEV) Perception** for autonomous driving
+- **3D LiDAR Bird's-Eye-View (BEV) Perception** for autonomous driving
 - **SLAM & Visual Odometry** for robotics applications
+- **3D reconstruction** using SfM-MVS; NeRF & Gaussian Splatting
 
 ##  Tech Stack
 
