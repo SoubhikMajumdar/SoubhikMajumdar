@@ -25,6 +25,7 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 ##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhik-sinha-majumdar/)
+
 [![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white)](mailto:soubhiksinhamajumdar@gmail.com) 
 ---
 
