@@ -26,7 +26,4 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhik-sinha-majumdar/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoubhikMajumdar&show_icons=true)
----
-
- Always eager to collaborate on computer vision and autonomous systems projects!
+Always eager to collaborate on computer vision and autonomous systems projects!
