@@ -22,6 +22,8 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 - **[3D Object Detection](https://github.com/SoubhikMajumdar/3D-object-detection)** - PointPillars, SECOND, CenterPoint implementations
 - **[Medical Image Analysis](https://github.com/SoubhikMajumdar/ISIC-2018-Skin-Lesion-Classification)** - Skin lesion classification for melanoma detection
 - **[SfM-MVS 3D Reconstruction](https://github.com/SoubhikMajumdar/3D-Reconstruction-Mapping)** - Structure from Motion and Multi-View Stereo 3D reconstruction (COLMAP South Building)
+- **[Visual SLAM](https://github.com/SoubhikMajumdar/Visual-SLAM-GTSAM)** - Stereo visual SLAM pipeline for KITTI Odometry with ORB+RANSAC, landmark mapping, GTSAM iSAM2 pose-graph optimization
+
 
 ##  Connect
 
