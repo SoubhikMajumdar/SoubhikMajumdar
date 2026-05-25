@@ -3,7 +3,7 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 
 ##  What I'm Working On
 - **Multimodal Driving Scene Understanding** — 360° scene understanding using Qwen2-VL and nuScenes multi-camera data
-- **Reinforcement Learning** Deep Q-Network for 6G wireless systems
+- **Reinforcement Learning** Proximal Policy Optimization (PPO) for 5G/6G wireless systems
 - **3D Object Detection** using LiDAR and camera fusion
 - **3D LiDAR Bird's-Eye-View (BEV) Perception** for autonomous driving
 - **SLAM & Visual Odometry** for robotics applications
@@ -17,7 +17,7 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 ##  Featured Projects
 - **[Multimodal Driving Scene Understanding](https://github.com/SoubhikMajumdar)** - 360° autonomous driving scene understanding with Qwen2-VL, using an LLM router for multi-camera, spatially-aware Q&A
 - **[BEVFusion for 3D Object Detection](https://github.com/SoubhikMajumdar/3D-LiDAR-Based-Birds-Eye-View-Object-Detection-via-BEVFusion)** - LiDAR based 3d object detection on nuScenes
-- **[RLRIS](https://github.com/SoubhikMajumdar/RLRIS)** - Deep Q-Network for 6G wireless systems
+- **[RLRIS](https://github.com/SoubhikMajumdar/RLRIS)** - Proximal Policy Optimization (PPO) for 5G/6G wireless systems
 - **[3D Object Detection](https://github.com/SoubhikMajumdar/3D-object-detection)** - PointPillars, SECOND, CenterPoint implementations
 - **[Medical Image Analysis](https://github.com/SoubhikMajumdar/ISIC-2018-Skin-Lesion-Classification)** - Skin lesion classification for melanoma detection
 - **[SfM-MVS 3D Reconstruction](https://github.com/SoubhikMajumdar/3D-Reconstruction-Mapping)** - Structure from Motion and Multi-View Stereo 3D reconstruction (COLMAP South Building)
