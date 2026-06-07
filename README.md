@@ -15,7 +15,7 @@ I'm passionate about computer vision and deep learning, with a focus on Autonomo
 **Focus Areas:** Computer Vision | 3D Perception | Deep Learning | Vision-Language Models
 
 ##  Featured Projects
-- **[Multimodal Driving Scene Understanding](https://github.com/SoubhikMajumdar)** - 360° autonomous driving scene understanding with Qwen2-VL, using an LLM router for multi-camera, spatially-aware Q&A
+- **[Multimodal Driving Scene Understanding](https://github.com/SoubhikMajumdar/multimodal-drive-scene-understanding)** - 360° autonomous driving scene understanding with Qwen2-VL, using an LLM router for multi-camera, spatially-aware Q&A
 - **[BEVFusion for 3D Object Detection](https://github.com/SoubhikMajumdar/3D-LiDAR-Based-Birds-Eye-View-Object-Detection-via-BEVFusion)** - LiDAR based 3d object detection on nuScenes
 - **[RLRIS](https://github.com/SoubhikMajumdar/RLRIS)** - Proximal Policy Optimization (PPO) for 5G/6G wireless systems
 - **[3D Object Detection](https://github.com/SoubhikMajumdar/3D-object-detection)** - PointPillars, SECOND, CenterPoint implementations
