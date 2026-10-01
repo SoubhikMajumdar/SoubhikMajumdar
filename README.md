@@ -1,5 +1,5 @@
 # Hi there, I'm Soubhik 👋
-I'm passionate about computer vision and deep learning, with a focus on Autonomous Driving Systems and 3D perception.
+I'm an engineer passionate about applying computer vision and deep learning models, techniques and algorithms to solve cool problems.
 
 ##  What I'm Working On
 - **Multimodal Driving Scene Understanding** — 360° scene understanding using Qwen2-VL and nuScenes multi-camera data
